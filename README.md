@@ -1,6 +1,7 @@
-# Scribo  
-###### I write
-
+# Scribo
+###### I Write
+--
+<a href="http://imgur.com/iCLn9Av"><img src="http://i.imgur.com/iCLn9Av.png" title="source: imgur.com" /></a>
 ### Screenshot
 
 ### Links
@@ -9,6 +10,25 @@
 Scribo is a judgement free platform that connects aspiring writers with other writers and bibliophiles that want to read a story. Writers can use this app to get advice from other writers on the message board, get random writing prompts, post their stories and sell their stories in the BookStore. Anyone can read a story or create a story, but only logged in users can create, update and delete posts tied to their account.
 
 ### Wireframes
+<a href="http://imgur.com/j2MBNo3"><img src="http://i.imgur.com/j2MBNo3.png" title="source: imgur.com" /></a>
+Home: Carousel slideshow that displays highlighted stories and writers
+
+<a href="http://imgur.com/LeLGCsN"><img src="http://i.imgur.com/LeLGCsN.png" title="source: imgur.com" /></a>
+Stories: Search the will render results according to genre, name, post date, or author.
+
+<a href="http://imgur.com/8twHiYv"><img src="http://i.imgur.com/8twHiYv.png" title="source: imgur.com" /></a>
+
+<a href="http://imgur.com/lVUZCxe"><img src="http://i.imgur.com/lVUZCxe.png" title="source: imgur.com" /></a>
+FAQ: Frequently asked questions, answered by the admin
+
+<a href="http://imgur.com/PyoJNH9"><img src="http://i.imgur.com/PyoJNH9.png" title="source: imgur.com" /></a>
+Login: User login page; user has ability to log into existing account or sign up to create an account
+
+<a href="http://imgur.com/uz5zCTa"><img src="http://i.imgur.com/uz5zCTa.png" title="source: imgur.com" /></a>
+Message Board: Users interact with eachother through various topics; standard message board
+
+<a href="http://imgur.com/vJ1YD2P"><img src="http://i.imgur.com/vJ1YD2P.png" title="source: imgur.com" /></a>
+Store: Sell ebooks and physical copies of authors merchandise 
 
 ### Psuedocode
 Home Page
