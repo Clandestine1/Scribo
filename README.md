@@ -1,6 +1,5 @@
 # Scribo
 ###### I Write
---
 <a href="http://imgur.com/iCLn9Av"><img src="http://i.imgur.com/iCLn9Av.png" title="source: imgur.com" /></a>
 ### Screenshot
 
@@ -17,12 +16,13 @@ Home: Carousel slideshow that displays highlighted stories and writers
 Stories: Search the will render results according to genre, name, post date, or author.
 
 <a href="http://imgur.com/8twHiYv"><img src="http://i.imgur.com/8twHiYv.png" title="source: imgur.com" /></a>
-
-<a href="http://imgur.com/lVUZCxe"><img src="http://i.imgur.com/lVUZCxe.png" title="source: imgur.com" /></a>
 FAQ: Frequently asked questions, answered by the admin
 
-<a href="http://imgur.com/PyoJNH9"><img src="http://i.imgur.com/PyoJNH9.png" title="source: imgur.com" /></a>
+<a href="http://imgur.com/lVUZCxe"><img src="http://i.imgur.com/lVUZCxe.png" title="source: imgur.com" /></a>
 Login: User login page; user has ability to log into existing account or sign up to create an account
+
+<a href="http://imgur.com/PyoJNH9"><img src="http://i.imgur.com/PyoJNH9.png" title="source: imgur.com" /></a>
+Contact: Form that sends user input to the Scribo admin email upon form submission 
 
 <a href="http://imgur.com/uz5zCTa"><img src="http://i.imgur.com/uz5zCTa.png" title="source: imgur.com" /></a>
 Message Board: Users interact with eachother through various topics; standard message board
@@ -47,7 +47,8 @@ Footer:
 - But out footer navbar that will link to contact, FAQ and Scribo social media 
 - Footer will remain consistent on all othe rpages
 ```
-Stories
+Stories Page
+
 ```
 - Contain (advanced) search field that will allow users to filter results by genre, post date or author
 - Search field will capture user search query and return the desired result
@@ -55,7 +56,7 @@ Stories
 - Render stories from database to display on page
 ```
 
-Inspiration
+Inspiration Page
 
 ```
 - Call to api to make get request for writing prompts
@@ -63,12 +64,43 @@ Inspiration
 - Below writing prompts render inspirational articles
 - Add crud functionality to articles 
 ```
-Chat
+Chat Page
 
 ```
 - Use gem that will provide blueprint for message board
-- 
+- Have users be able to post questions and answer questions
+- Posts will have full crud
 ```
+
+FAQ Page
+
+```
+- Render list of frequently asked questions
+- Render unqiue answer that goes along with unique question
+- Answers appear on toggle when question is clicked 
+```
+Contact Page
+
+```
+- Render form that includes username, email and message input
+- Upon submit, form will generate email to Scribo admins that is comprised of values taken from user input
+```
+
+Store Page
+
+```
+- Use gem that will provide blueprint for store
+- Render various items that the authors are selling
+- Allow store items to be filtered by price, item type and book format
+```
+
+Login Page
+
+```
+- Display div that has a button for logging in and a button for signing up
+- Upon click of specific button either login form or signup form will be toggled down 
+```
+
 ### User Stories
 
 ### ERD
