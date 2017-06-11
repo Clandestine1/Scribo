@@ -1,6 +1,6 @@
 # Scribo
 ###### I Write
-<a href="http://imgur.com/iCLn9Av"><img src="http://i.imgur.com/iCLn9Av.png" title="source: imgur.com" /></a>
+<img src="http://i.imgur.com/TF0ILTg.png" title="source: imgur.com" />
 ### Screenshot
 
 ### Links
