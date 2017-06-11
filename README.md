@@ -1,6 +1,7 @@
 # Scribo
 ###### I Write
 <img src="http://i.imgur.com/TF0ILTg.png" title="source: imgur.com" />
+
 ### Screenshot
 
 ### Links
@@ -140,3 +141,8 @@ Login Page
 - Thredded
 
 ### Installation Instructions
+1. Download the repo zip file or ```git clone``` this repo in terminal.
+2. To make sure you have the latest version run ```gem update rails```. If you don't have rails installed at all run ```gem install rails``` in terminal.
+3. Run ```bundle install``` command to make sure all gems are successfully installed.
+4. Open server using ```rails server``` or rails server -p *port name* for example ```rails server -p 3001```
+
